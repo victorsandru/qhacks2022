@@ -615,9 +615,9 @@ progress {
   font-size: 0.875em;
   color: #6c757d;
 }
-.blockquote-footer::before {
+/* .blockquote-footer::before {
   content: "— ";
-}
+} */
 
 .img-fluid {
   max-width: 100%;
@@ -11426,4 +11426,5 @@ header.masthead .bg-circle-4 {
   
   background: rgba(196, 196, 196, 0.5);
   border-radius: 50px;
+  /* opacity: 0.5; */
 }
