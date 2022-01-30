@@ -647,6 +647,7 @@ progress {
   color: #6c757d;
 }
 
+
 .container,
 .container-fluid,
 .container-xxl,
@@ -3051,13 +3052,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #ee0979;
-  border-color: #ee0979;
+  background-color: #000000;
+  border-color: #000000;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #ca0867;
-  border-color: #be0761;
+  background-color: #808080;
+  border-color: #808080;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -11344,7 +11345,7 @@ header.masthead {
   padding-bottom: 7rem;
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
+	animation: gradient 25s ease infinite;
 	height: 100vh;
 }
 header.masthead .masthead-content {
@@ -11363,8 +11364,8 @@ header.masthead .bg-circle {
   border-radius: 100%;
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
-	height: 100vh;
+	animation: gradient 25s ease infinite;
+	height: 90vh;
 }
 header.masthead .bg-circle-1 {
   height: 90rem;
